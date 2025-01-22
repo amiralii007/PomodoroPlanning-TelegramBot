@@ -289,7 +289,7 @@ async def set_reminder(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # Main function to start the bot
 def main():
-    application = Application.builder().token("7562010084:AAGC-VTPRGsOK_MU1frUuwiNsnV50eCcgXw").build()
+    application = Application.builder().token("API_TOKEN").build()
 
     # Command handlers
     application.add_handler(CommandHandler("start", start))
