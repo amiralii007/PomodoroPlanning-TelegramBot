@@ -1,10 +1,5 @@
 # PomodoroPlanning-TelegramBot
 
-Here’s a well-structured `README.md` template you can use:
-
-```markdown
-# Enhanced Productivity Bot
-
 This project is a Telegram bot designed to help you manage your productivity with Pomodoro timers, task management, and reminders. It's built using Python, asyncio, and the `python-telegram-bot` library.
 
 The bot allows users to:
